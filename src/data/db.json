@@ -121,7 +121,7 @@
       {
         "id": 1,
         "idMovie": "713704",
-        "programación":[
+        "programacion":[
             {
                 "id": 1,
                 "date": [
@@ -147,7 +147,7 @@
       {
         "id": 2,
         "idMovie": "502356",
-        "programación": [
+        "programacion": [
           {
             "id": 1,
             "date": [
@@ -173,7 +173,7 @@
       {
         "id": 3,
         "idMovie": "758323",
-        "programación": [
+        "programacion": [
           {
             "id": 1,
             "date": [
@@ -199,7 +199,7 @@
       {
         "id": 4,
         "idMovie": "447365",
-        "programación": [
+        "programacion": [
           {
             "id": 1,
             "date": [
